@@ -90,7 +90,7 @@ address{
   border: none;
 }
 
-/* MOBILE MENU */
+/******* MOBILE MENU ********/
 /* .mob-menu-is-hidden {
   opacity: 0;
   visibility: hidden;
@@ -210,7 +210,7 @@ address{
   fill: #f4f4fd;
 }
 
-/* HERO */
+/************* HERO ****************/
 
 .hero {
   background: #2e2f42;
@@ -322,7 +322,7 @@ address{
   color: #434455;
 }
 
-/* TEAM */
+/******************** TEAM *****************/
 
 .team {
   background-color: #f4f4fd;
@@ -411,7 +411,7 @@ address{
   background-color: #404bbf;
 }
 
-/* PORTFOLIO */
+/******************* PORTFOLIO ****************/
 
 .portfolio {
   padding-top: 96px;
@@ -501,7 +501,7 @@ address{
   margin-bottom: 32px;
 }
 
-/* FOOTER */
+/**************** FOOTER *******************/
 
 .footer {
   background: #2e2f42;
@@ -652,7 +652,7 @@ address{
   fill: #fff;
 }
 
-/* MODAL */
+/**************** MODAL ******************/
 
 .backdrop {
   position: fixed;
@@ -876,7 +876,7 @@ address{
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* ===========TABLET============== */
+/************TABLET **************/
 
 @media screen and (min-width: 768px) {
   .container {
@@ -964,7 +964,7 @@ address{
     display: none;
   }
 
-  /* HERO TABLET */
+  /*************** HERO TABLET ***************/
 
   .hero {
     background: #2e2f42;
@@ -998,7 +998,7 @@ address{
     margin-bottom: 36px;
   }
 
-  /* FEATUTRES TABLET */
+  /*********** FEATUTRES TABLET ************/
 
   .features-list {
     gap: 72px 24px;
@@ -1077,7 +1077,7 @@ address{
   }
 }
 
-/* ============DESKTOP================= */
+/******* DESKTOP **************/
 
 @media screen and (min-width: 1158px) {
   .container {
@@ -1109,7 +1109,7 @@ address{
     line-height: 1.5;
   }
 
-  /* HERO DESKTOP */
+  /************* HERO DESKTOP ***********/
 
   .hero {
     background-image: linear-gradient(
@@ -1148,7 +1148,7 @@ address{
     color: #fff;
   }
 
-  /* FEATURES DESKTOP */
+  /**************** FEATURES DESKTOP ****************/
 
   .features {
     padding-top: 120px;
@@ -1191,7 +1191,7 @@ address{
     font-weight: 400;
   }
 
-  /* TEAM DESKTOP */
+  /************** TEAM DESKTOP **************/
 
   .team {
     padding-top: 120px;
@@ -1207,7 +1207,7 @@ address{
     background-color: #404bbf;
   }
 
-  /* PORTFOLIO DESKTOP */
+  /*********** PORTFOLIO DESKTOP ************/
 
   .portfolio {
     padding-top: 120px;
@@ -1222,7 +1222,7 @@ address{
     width: 360px;
   }
 
-  /* FOOTER DESKTOP */
+  /************ FOOTER DESKTOP **************/
 
   .footer {
     padding-top: 100px;
@@ -1248,7 +1248,7 @@ address{
     margin-left: 80px;
   }
 
-  /* MODAL DESKTOP */
+  /************ MODAL DESKTOP ***********/
 
   .modal {
     width: 408px;
